@@ -1,7 +1,7 @@
-# Exploratory Data Analysis - Course Project 1
+# Exploratory Data Analysis - Project 1
 
 This repository contains my solution of the first project in the
-Coursera[www.coursera.org] course exploratory data analysis.
+[Coursera](www.coursera.org) course exploratory data analysis.
 
 
 ## Contents
